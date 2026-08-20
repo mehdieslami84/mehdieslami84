@@ -6,7 +6,7 @@
 <h3 align="center">
 🎓 Computer Science Student | Aspiring Backend Developer
 </h3>
-<img align="right" alt="mehdieslami" width="400" src="http://cconlinejournal.org/brown_mehler/gifs/girlTyping.gif"
+<img align="right" alt="mehdieslami" width="300" src="http://cconlinejournal.org/brown_mehler/gifs/girlTyping.gif"
 
 - 🔭 I'm currently working on **Reservify**, an automation system for booking and reservation processes.
 
