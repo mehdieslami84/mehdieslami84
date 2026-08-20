@@ -3,10 +3,7 @@
 <h3 align="center">
 🎓 Computer Science Student | Aspiring Backend Developer
 </h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mehdieslami84&label=Profile%20views&color=0e75b6&style=flat" alt="mehdieslami84" />
-</p>
+<img align="right" alt="mehdieslami" wight = "400" src="http://cconlinejournal.org/brown_mehler/gifs/girlTyping.gif"
 
 - 🔭 I'm currently working on **Reservify**, an automation system for booking and reservation processes.
 
